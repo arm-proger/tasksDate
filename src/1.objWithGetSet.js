@@ -4,7 +4,7 @@ const obj = {
     const names = name.split(', ')
 
     names.forEach((element) => {
-      this._name.push([element, element.length])
+      this._name.push([element.trim(), element.length])
     })
   },
   get name() {

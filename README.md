@@ -1,9 +1,20 @@
-# __BUILD-INS (JSON, REGEX, DATE)__
+# __Date API, Descriptors, Getters / Setters__
 
 ## Source map
 
 * Source
-  * reverseEntries.js  
+  * jsInfo
+    * 1.date
+      * 1.createDate.js
+      * 2.getWeekDay.js
+      * 3.howManyDays.js
+  * 1.objWithGetSet.js
+  * 2.bestAverageScore.js
+  * 3.getMonths.js
+  * 4.dayOfYear.js
+  * 5.getWeekName.js
+  * 6.formatDate.js
+  * 7.getWeekOfMonth.js
 * README.md
 
 ---
